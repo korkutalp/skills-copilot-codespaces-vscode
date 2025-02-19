@@ -1,4 +1,5 @@
 // filepath: /workspaces/skills-copilot-codespaces-vscode/example1/main.go
+// test ayri bir terminalde calistirilir
 package main
 
 import "fmt"
